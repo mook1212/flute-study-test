@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ecc914ba.css",
-    "main.js": "/static/js/main.df189582.js",
+    "main.css": "/static/css/main.2355a7fa.css",
+    "main.js": "/static/js/main.ed95d5e6.js",
     "static/js/787.142da1d4.chunk.js": "/static/js/787.142da1d4.chunk.js",
     "static/media/EduTASBeginner-Bold.ttf": "/static/media/EduTASBeginner-Bold.aa43f5462fdc99ab753c.ttf",
     "index.html": "/index.html",
-    "main.ecc914ba.css.map": "/static/css/main.ecc914ba.css.map",
-    "main.df189582.js.map": "/static/js/main.df189582.js.map",
+    "main.2355a7fa.css.map": "/static/css/main.2355a7fa.css.map",
+    "main.ed95d5e6.js.map": "/static/js/main.ed95d5e6.js.map",
     "787.142da1d4.chunk.js.map": "/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecc914ba.css",
-    "static/js/main.df189582.js"
+    "static/css/main.2355a7fa.css",
+    "static/js/main.ed95d5e6.js"
   ]
 }
